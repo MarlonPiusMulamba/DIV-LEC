@@ -38,9 +38,13 @@
 }
 .txt1{
     width: 100%;
-    display: flex;
     margin-top: 400px;
     margin-left: -100px;
-    height: 200px;
+
     
+}
+.txt2{
+    margin-top: 400px;
+    width: 400px;
+    margin-left: -400px;
 }
